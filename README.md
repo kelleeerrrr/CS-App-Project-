@@ -23,7 +23,7 @@ This system is designed to simplify the process of managing quizzes, providing b
 ## How to Use
 1. Clone this repository to your local machine.
 2. Open a terminal and navigate to the project directory.
-3. Run the `QuizMaster:QuizMaster: Streamlined Quiz Management System.py` file using Python: `QuizMaster: Streamlined Quiz Management System.py`.
+3. Run the `QuizMaster.py` file using Python: `QuizMaster.py`.
 4. Follow the on-screen instructions to sign up, log in, and use the system.
 
 #
